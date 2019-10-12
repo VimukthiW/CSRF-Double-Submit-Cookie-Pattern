@@ -7,7 +7,7 @@ Download and Install XAMPP
 
 Clone/Download files in the repository
 
-Make sure CSRF-sync folder is in the htdocs folder of the XAMPP server.
+Make sure CSRF-Double-Submit-Cookie-Pattern-Master folder is in the htdocs folder of the XAMPP server.
 
 Start Apache and Mysql modules from XAMPP
 
