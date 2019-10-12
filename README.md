@@ -11,7 +11,7 @@ Make sure CSRF-sync folder is in the htdocs folder of the XAMPP server.
 
 Start Apache and Mysql modules from XAMPP
 
-Open up the browser and type the url: http://localhost/CSRF-Double-Submit_Cookie
+Open up the browser and type the url: http://localhost/CSRF-Double-Submit_Cookie-Pattern-Master
 
 Login credentials
 
