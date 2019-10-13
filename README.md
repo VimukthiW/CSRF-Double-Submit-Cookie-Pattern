@@ -19,4 +19,4 @@ Username :admin
 
 Password: admin
 
-For Detailed Explanation - https://cyb3rlk.blogspot.com/2019/10/cross-site-request-forgery-protection_10.html
+For Detailed Explanation - https://cyb3rlk.tk/2019/10/cross-site-request-forgery-protection_10.html
